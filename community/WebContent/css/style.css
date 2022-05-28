@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+
+.table-table{
+	width: 50%;
+	margin-left: auto;
+    margin-right: auto;
+    
+    border-collapse : collapse;
+}
+
+
+
+
+
+.pagination{
+	justify-content: center;
+}
